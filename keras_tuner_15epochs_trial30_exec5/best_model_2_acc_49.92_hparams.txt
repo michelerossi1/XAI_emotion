@@ -1,0 +1,1 @@
+{'filters_1': 24, 'filters_2': 8, 'filters_3': 8, 'filters_4': 8, 'dense_neurons': 128, 'dropout_rate': 0.5, 'learning_rate': 0.01}
