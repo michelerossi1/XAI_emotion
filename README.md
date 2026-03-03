@@ -3,13 +3,13 @@
 # test for XAI app Dome
 
 ### Relevance Map
-![LIME Map](./assets/map.png)
+![ Regions Map](./assets/average_h.png)
 
 🎧 Full 3-second segment  
-[Listen here](./assets/full_3sec.wav)
+[Listen here](./assets/test_audio.wav)
 
 🎧 Most Relevant Region (1s)  
-[Listen here](./assets/relevant_region.wav)
+[Listen here](./assets/most_relevant_region.wav)
 
 🎧 Least Relevant Region (1s)  
 [Listen here](./assets/irrelevant_region.wav)
